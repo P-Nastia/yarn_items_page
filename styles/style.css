@@ -1,0 +1,33 @@
+﻿body {
+    padding:10px;
+}
+
+header {
+    margin-bottom: 10px;
+    padding: 10px 50px 20px 50px;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+    margin: 3px;
+}
+
+.category{
+    margin:auto;
+}
+
+main {
+    padding: 10px 80px 20px 80px;
+}
+
+.good-title {
+    overflow: hidden;
+    height: 50px;
+}
+
+@media only screen and (max-width: 768px) {
+    main {
+        padding: 10px;
+    }
+}
